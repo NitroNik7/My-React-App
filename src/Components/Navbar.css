@@ -1,0 +1,22 @@
+.mraNavbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+}
+
+.mraNavbar input {
+    /* margin: 5px 10px; */
+}
+
+.mraNavbar ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    margin: 0;
+}
+
+.mraNavbar ul li {
+    font-size: 16px;
+    margin: 0 10px;
+    padding: 5px 10px;
+}
